@@ -1,0 +1,22 @@
+{
+  "name": "return_from_vacation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamIverson/return_from_vacation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamIverson/return_from_vacation/issues"
+  },
+  "homepage": "https://github.com/AdamIverson/return_from_vacation#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
